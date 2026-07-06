@@ -1,0 +1,38 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <!-- Editor-Fenster -->
+  <rect x="1.5" y="1.5" width="897" height="257" rx="13" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Titelleiste -->
+  <path d="M 1.5 45 V 14.5 Q 1.5 1.5 14.5 1.5 H 885.5 Q 898.5 1.5 898.5 14.5 V 45 Z" fill="#161b22"/>
+  <line x1="1.5" y1="45" x2="898.5" y2="45" stroke="#30363d" stroke-width="1"/>
+  <!-- Ampel-Buttons -->
+  <circle cx="28" cy="23" r="6.5" fill="#ff5f57"/>
+  <circle cx="50" cy="23" r="6.5" fill="#febc2e"/>
+  <circle cx="72" cy="23" r="6.5" fill="#28c840"/>
+  <!-- Dateiname -->
+  <text x="450" y="28" text-anchor="middle" font-family="'Fira Code','SF Mono',Consolas,monospace" font-size="13" fill="#8b949e">sven-haase — profile.ts</text>
+
+  <!-- Zeilennummern -->
+  <g font-family="'Fira Code','SF Mono',Consolas,monospace" font-size="14" fill="#6e7681" text-anchor="end">
+    <text x="38" y="80">1</text>
+    <text x="38" y="116">2</text>
+    <text x="38" y="148">3</text>
+    <text x="38" y="176">4</text>
+    <text x="38" y="208">5</text>
+    <text x="38" y="240">6</text>
+  </g>
+
+  <!-- Code -->
+  <g font-family="'Fira Code','SF Mono',Consolas,monospace" font-size="16">
+    <text x="60" y="80" fill="#6a9955" font-style="italic">/**</text>
+    <text x="60" y="116" fill="#6a9955" font-style="italic"> * <tspan font-size="34" font-weight="700" font-style="normal" fill="#f0f6fc">Sven Haase</tspan></text>
+    <text x="60" y="148" fill="#6a9955" font-style="italic"> * <tspan fill="#8b949e">Full-Stack Developer · Angular · Three.js · Firebase</tspan></text>
+    <text x="60" y="176" fill="#6a9955" font-style="italic"> */</text>
+    <text x="60" y="208"><tspan fill="#569cd6">let</tspan> <tspan fill="#9cdcfe">ideas</tspan> <tspan fill="#f0f6fc">=</tspan> <tspan fill="#c586c0">await</tspan> <tspan fill="#9cdcfe">figma</tspan><tspan fill="#f0f6fc">.</tspan><tspan fill="#dcdcaa">import</tspan><tspan fill="#f0f6fc">();</tspan></text>
+    <text x="60" y="240"><tspan fill="#c586c0">while</tspan> <tspan fill="#f0f6fc">(</tspan><tspan fill="#569cd6">true</tspan><tspan fill="#f0f6fc">) {</tspan> <tspan fill="#dcdcaa">build</tspan><tspan fill="#f0f6fc">(</tspan><tspan fill="#9cdcfe">ideas</tspan><tspan fill="#f0f6fc">);</tspan> <tspan fill="#dcdcaa">ship</tspan><tspan fill="#f0f6fc">(); }</tspan></text>
+  </g>
+
+  <!-- Blinkender Cursor -->
+  <rect x="424" y="226" width="9" height="19" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
