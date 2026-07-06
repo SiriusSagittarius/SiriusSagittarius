@@ -17,7 +17,7 @@ Ich baue Webanwendungen, die sich schnell anfühlen und gut aussehen – am lieb
 | [**DABubble**](https://dabubble.svenhaase.de) | Slack-artiger Realtime-Chat | Angular · Firebase · SCSS |
 | [**Join**](https://join.svenhaase.de) | Kanban-Board mit Drag & Drop | JavaScript · HTML · CSS |
 | [**3D Shooter**](https://shooter.svenhaase.de) | Ego-Shooter direkt im Browser | Three.js · WebGL |
-| [**El Pollo Loco**](https://el_pollo_loco.svenhaase.de) | Jump'n'Run als Canvas-Game | JavaScript · OOP |
+| [**El Pollo Loco**](https://epl.svenhaase.de) | Jump'n'Run als Canvas-Game | JavaScript · OOP |
 | [**Sauerei**](https://play.google.com/store/apps/details?id=app.sauerei.de) | Android-App im Play Store | Android Studio |
 | [**Easy-TV**](https://easy-tv.org) | Community-Forum | phpBB · PHP |
 
